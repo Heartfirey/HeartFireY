@@ -1,7 +1,5 @@
 <h1 align="center">
-  <a href="https://acs.jxnu.edu.cn">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=%2C%20Welcome%2C%20to%2C%20HeartFireY's%2C%20Github!%22&center=true&size=27">
-  </a>
+  <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+HeartFireY's+Github!;console.log(%22Hello+World!%22)" alt="Typing SVG" /></a>
 </h1>
 
 #  🙋 Hello
