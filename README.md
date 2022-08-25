@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://acs.jxnu.edu.cn">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Welcome to HeartFireY's Github!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Welcome%22to%22HeartFireY's%22Github!&center=true&size=27">
   </a>
 </h1>
 
@@ -8,9 +8,11 @@
 
 My name is HeartFireY, and I am from Jiangxi Normal University, mainly engaged in AI related research. Also, I am the 9th president of the Association of Computer Science in Jiangxi Normal University. Welcome to follow me on GitHub!
 
-<center>
-[![HeartFireY's github stats](https://github-readme-stats.vercel.app/api?username=heartfirey&count_private=true&show_icons=true&theme=default&include_all_commits=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-</center>
+
+<div align="center">
+  <img src="[https://github-readme-stats.vercel.app/api/pin/?username=sun0225SUN&repo=Awesome-Love-Code&theme=dark&bg_color=0d1117&hide_border=true](https://github-readme-stats.vercel.app/api?username=heartfirey&count_private=true&show_icons=true&theme=default&include_all_commits=true&hide_border=true)" /></a>
+</div>
+
 
 Streak stats:
 
