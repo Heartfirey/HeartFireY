@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://acs.jxnu.edu.cn">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22); %2C%20Welcome%2C%20to%2C%20HeartFireY's%2C%20Github!%22&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=%2C%20Welcome%2C%20to%2C%20HeartFireY's%2C%20Github!%22&center=true&size=27">
   </a>
 </h1>
 
