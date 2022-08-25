@@ -10,7 +10,7 @@ My name is HeartFireY, and I am from Jiangxi Normal University, mainly engaged i
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sun0225SUN&repo=Awesome-Love-Code&theme=dark&bg_color=0d1117&hide_border=true](https://github-readme-stats.vercel.app/api?username=heartfirey&count_private=true&show_icons=true&theme=default&include_all_commits=true&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=heartfirey&count_private=true&show_icons=true&theme=default&include_all_commits=true&hide_border=true"/>
 </div>
 
 
