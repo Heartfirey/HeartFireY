@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://acs.jxnu.edu.cn">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Welcome%22to%22HeartFireY's%22Github!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);%22Welcome%22to%22HeartFireY's%22Github!%22&center=true&size=27">
   </a>
 </h1>
 
@@ -10,7 +10,7 @@ My name is HeartFireY, and I am from Jiangxi Normal University, mainly engaged i
 
 
 <div align="center">
-  <img src="[https://github-readme-stats.vercel.app/api/pin/?username=sun0225SUN&repo=Awesome-Love-Code&theme=dark&bg_color=0d1117&hide_border=true](https://github-readme-stats.vercel.app/api?username=heartfirey&count_private=true&show_icons=true&theme=default&include_all_commits=true&hide_border=true)" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sun0225SUN&repo=Awesome-Love-Code&theme=dark&bg_color=0d1117&hide_border=true](https://github-readme-stats.vercel.app/api?username=heartfirey&count_private=true&show_icons=true&theme=default&include_all_commits=true&hide_border=true"/>
 </div>
 
 
